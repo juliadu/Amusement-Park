@@ -1,0 +1,26 @@
+OLD:
+Arduino 1 (Functional):
+-Digital Pot (Camera):
+  -Blue -> 10
+  -Orange -> 11
+  -Yellow -> 13
+ -Motor (Ferris)-> 3
+ -Motor (Swing) -> 6
+ -Button 1 -> 2 
+ -Button 2 -> 3
+ -RPurp KnexMotor -> 4
+ -LPurp KnexMotor -> 5
+
+Arduino 2(Aesthetics):
+  Screen:
+  -Purple -> 7
+  -White -> 8
+  -Green -> 9
+  -Orange -> 10
+  -Blue -> 11
+  -White -> 12
+  -Yellow -> 13
+
+NEW:
+Change button 2 to pin 7
+  
